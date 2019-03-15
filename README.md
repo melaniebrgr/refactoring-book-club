@@ -1,5 +1,9 @@
 # Refactoring Book Club
 
+### Book:
+
+["Refactoring: Improving the Design of Existing Code" (2nd Edition), by Martin Fowler](https://www.amazon.ca/Refactoring-Improving-Design-Existing-Code/dp/0134757599/ref=sr_1_1?crid=28WPJ77S2LZCH&keywords=refactoring+martin+fowler&qid=1552664077&s=gateway&sprefix=refactor%2Caps%2C-1&sr=8-1)
+
 > "...the project failed, in large part because the code was too complex to debug or tune to acceptable performance. The consultant Kent Beck was brought in ... He did several things differently, but one of the most important changes was to insist on continuous cleaning up of the code using refactoring. The improved effectiveness of the team, and the role refactoring played, is what inspired me to write the first edition of this book—so I could pass on the knowledge that Kent and others have acquired by using refactoring to improve the quality of software." - Martin Fowler, excerpt from the forward
 
 ### Meeting agenda:
