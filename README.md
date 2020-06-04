@@ -12,13 +12,13 @@ We get together every two weeks for 30 min to talk about the chapter(s). Each me
 
 | Chapters | Topic                                                | Date                  | Reviewer | Note-taker |
 | -------- | ---------------------------------------------------- | --------------------- | -------- | ---------- |
-| 1        | Refactoring: a first example                         | Wed. April 3, 4:30pm  | TBD      | TBD        |
-| 2        | Principles of refactoring                            | Wed. April 17, 4:30pm | TBD      | TBD        |
-| 3, 4     | Bad smells in code, Building tests                   | Wed. May 1, 4:30pm    | TBD      | TBD        |
-| 5, 6     | Introducing the catalog, A first set of refactorings | Wed. May 15, 4:30pm   | TBD      | TBD        |
-| 7, 8     | Encapsulation, Moving features                       | Wed. May 29, 4:30pm   | TBD      | TBD        |
-| 9, 10    | Organizing data, Simplifying conditional logic       | Wed. June 12, 4:30pm  | TBD      | TBD        |
-| 11, 12   | Refactoring APIs, Dealing with inheritance           | Wed. June 26, 4:30pm  | TBD      | TBD        |
+| 1        | Refactoring: a first example                         | June 9, 20:00         | TBD      | TBD        |
+| 2        | Principles of refactoring                            |                       | TBD      | TBD        |
+| 3, 4     | Bad smells in code, Building tests                   |                       | TBD      | TBD        |
+| 5, 6     | Introducing the catalog, A first set of refactorings |                       | TBD      | TBD        |
+| 7, 8     | Encapsulation, Moving features                       |                       | TBD      | TBD        |
+| 9, 10    | Organizing data, Simplifying conditional logic       |                       | TBD      | TBD        |
+| 11, 12   | Refactoring APIs, Dealing with inheritance           |                       | TBD      | TBD        |
 
 (Tentative, subject to change)
 
