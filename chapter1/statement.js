@@ -17,6 +17,14 @@ function statement(invoice, plays) {
     return result;
   }
 
+  function totalVolumeCredits() {
+    let volumeCredits = 0;
+    for (let perf of invoice.performances) {
+      volumeCredits += volumeCreditsFor(perf);
+    }
+    return volumeCredits;
+  }
+
   function playFor(aPerformance) {
     return plays[aPerformance.playID];
   }
@@ -44,8 +52,8 @@ function statement(invoice, plays) {
     return result;
   }
 
+  let volumeCredits = totalVolumeCredits();
   let totalAmount = 0;
-  let volumeCredits = 0;
   let result = `Statement for ${invoice.customer}\n`;
 
   for (let perf of invoice.performances) {
@@ -54,10 +62,6 @@ function statement(invoice, plays) {
       perf.audience
     } seats)\n`;
     totalAmount += amountFor(perf);
-  }
-
-  for (let perf of invoice.performances) {
-    volumeCredits += volumeCreditsFor(perf);
   }
 
   result += `Amount owed is ${usd(totalAmount)}\n`;
