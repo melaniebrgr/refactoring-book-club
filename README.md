@@ -10,15 +10,16 @@ We get together every two weeks for 30 min to talk about the chapter(s). Each me
 
 ### Meeting schedule:
 
-| Chapters | Topic                                                | Date                  | Reviewer | Note-taker |
-| -------- | ---------------------------------------------------- | --------------------- | -------- | ---------- |
-| 1        | Refactoring: a first example                         | June 9, 20:00         | TBD      | TBD        |
-| 2        | Principles of refactoring                            |                       | TBD      | TBD        |
-| 3, 4     | Bad smells in code, Building tests                   |                       | TBD      | TBD        |
-| 5, 6     | Introducing the catalog, A first set of refactorings |                       | TBD      | TBD        |
-| 7, 8     | Encapsulation, Moving features                       |                       | TBD      | TBD        |
-| 9, 10    | Organizing data, Simplifying conditional logic       |                       | TBD      | TBD        |
-| 11, 12   | Refactoring APIs, Dealing with inheritance           |                       | TBD      | TBD        |
+| Chapters | Topic                                                | Date                  |
+| -------- | ---------------------------------------------------- | --------------------- |
+| 1        | Refactoring: a first example                         | June 9, 20:00         |
+| 2        | Principles of refactoring                            | June 23, 20:00        |
+| 3, 4     | Bad smells in code, Building tests                   | July 7, 20:00         |
+| 5, 6     | Introducing the catalog, A first set of refactorings | July 21, 20:00        |
+| 7        | Encapsulation                                        | Aug 4, 20:00          |
+| 8        | Moving features                                      |                       |
+| 9, 10    | Organizing data, Simplifying conditional logic       |                       |
+| 11, 12   | Refactoring APIs, Dealing with inheritance           |                       |
 
 (Tentative, subject to change)
 
@@ -30,4 +31,4 @@ We get together every two weeks for 30 min to talk about the chapter(s). Each me
 
 ### Contributors:
 
-TBD
+Sherllon, Melanie, Chris, Sid, Kilian, Joonas, Mack 
